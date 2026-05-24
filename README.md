@@ -87,18 +87,6 @@ The circuit is a **push-pull ZVS (Royer) oscillator** — a self-oscillating top
 - Keep switching circuitry away from metallic objects not intended as the heating target
 - Input supply must be current-limited or fused
 
----
-
-## Files
-
-| File | Description |
-|------|-------------|
-| `schm+pcb+gerber.zip` | KiCad schematic, PCB layout, and Gerber files for fabrication |
-| `schematic.png` | Schematic screenshot |
-| `BOM.md` | Bill of materials |
-
----
-
 ## License
 
 MIT License. See `LICENSE` for full terms.
